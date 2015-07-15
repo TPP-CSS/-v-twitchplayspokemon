@@ -1,0 +1,84 @@
+.md [href="$Kappa$"] {
+	display: inline-block;
+	width: 25px;
+	height: 28px;
+	background: url(resources/emotes/Kappa.png);
+}
+.md [href="$SwiftRage$"] {
+	display: inline-block;
+	width: 21px;
+	height: 28px;
+	background: url(resources/emotes/SwiftRage.png);
+}
+.md [href="$BibleThump$"] {
+	display: inline-block;
+	width: 36px;
+	height: 30px;
+	background: url(resources/emotes/BibleThump.png);
+}
+.md [href="$PogChamp$"] {
+	display: inline-block;
+	width: 23px;
+	height: 30px;
+	background: url(resources/emotes/PogChamp.png);
+
+.md [href="$tppHelix$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppHelix.png);
+}
+.md [href="$tppRng$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppRng.png);
+}
+.md [href="$tppPokeyen$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppPokeyen.png);
+}
+.md [href="$tppCrit$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppCrit.png);
+}
+.md [href="$tppHax$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppHax.png);
+}
+.md [href="$tppMiss$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppMiss.png);
+}
+.md [href="$tppPc$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppPc.png);
+}
+.md [href="$tppRobored$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppRobored.png);
+}
+.md [href="$tppRiot$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppRiot.png);
+}
+.md [href="$tppDome$"] {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background: url(resources/emotes/tppDome.png);
+}
